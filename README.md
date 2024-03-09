@@ -10,3 +10,5 @@ User for version only the first three (v.1.2.3 instead of v.1.2.3.4) otherwise t
 Play around with the path to the Parent directory in order to match the project root.
 
 Ideally this would be transformed into a tool of its own. (maybe in the future)
+
+This project is set as a template to have an idea how it is going to work.
